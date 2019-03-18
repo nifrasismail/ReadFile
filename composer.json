@@ -2,7 +2,7 @@
     "name": "nertlab/file-read",
     "description": "Reading Files",
     "version": "1.0.0",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
