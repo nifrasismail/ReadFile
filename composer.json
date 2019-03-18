@@ -1,0 +1,15 @@
+{
+    "name": "nertlab/file-read",
+    "description": "Reading Files",
+    "version": "1.0.0",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nifrasismail",
+            "email": "nifrasismail@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
